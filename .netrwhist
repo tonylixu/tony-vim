@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/txu/tonylixu/Code/python/File_compare'
+let g:netrw_dirhist_2='/Users/txu/.offlineimap'
+let g:netrw_dirhist_3='/Users/txu/code/kik-server/fabfile'
+let g:netrw_dirhist_4='/Users/txu/.offlineimap'
